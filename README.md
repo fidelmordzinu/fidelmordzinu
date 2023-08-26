@@ -13,6 +13,8 @@ I'm a passionate Fullstack Developer with 5 years of experience in designing and
   - Email: mordzinufidel@gmail.com
   - LinkedIn: www.linkedin.com/in/fidelmordzinu
 
- 
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fidelmordzinu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://gh.linkedin.com/in/fidelmordzinu?trk=profile-badge">Fidel Mordzinu</a></div>
+              
   ## Let's Connect
   Feel free to reach out if you're interested in collaborating on projects or discusing opportunities. I'm always open to connecting with fellow developers and industry proffessionals. 
