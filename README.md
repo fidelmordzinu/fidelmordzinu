@@ -1,4 +1,4 @@
-# Hi there, I'm Fidel - Fullstack Developer👋
+# Hi there, I'm Fidel
 
 ## About Me
 I'm a passionate Fullstack Developer with 5 years of experience in designing and building web applications. My expertise spans both frontend and backend technologies, enabling me to create seamless and robust user experiences.
