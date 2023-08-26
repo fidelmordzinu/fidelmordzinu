@@ -11,7 +11,8 @@ I'm a passionate Fullstack Developer with 5 years of experience in designing and
 
   ## Contact M
   - Email: mordzinufidel@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/fidel-mordzinu-63075211a/
+  - LinkedIn: www.linkedin.com/in/fidelmordzinu
+
  
   ## Let's Connect
   Feel free to reach out if you're interested in collaborating on projects or discusing opportunities. I'm always open to connecting with fellow developers and industry proffessionals. 
