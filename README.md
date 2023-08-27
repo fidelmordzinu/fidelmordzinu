@@ -4,7 +4,7 @@ I’m a fullstack developer, mobile app developer and interested in blockchain, 
 
 🔭 I’m currently working on
 
-A web app that uses blockchain and AI to provide decentralized and personalized learning platforms
+**** A web app that uses blockchain and AI to provide decentralized and personalized learning platforms
 A mobile app that uses IoT and quantum cryptography to enable secure and smart home automation
 A personal project that uses quantum computing and synthetic biology to simulate the evolution of life
 
